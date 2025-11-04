@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Twin Auto Traders</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; line-height:1.6; }
+    header { background:#2c3e50; color:#fff; padding:20px; text-align:center; }
+    nav a { color:#fff; margin:0 15px; text-decoration:none; font-weight:bold; }
+    section { padding:30px; }
+    h2 { color:#2c3e50; }
+    .products { display:flex; gap:20px; flex-wrap:wrap; }
+    .product { border:1px solid #ddd; padding:15px; width:250px; border-radius:8px; }
+    footer { background:#2c3e50; color:#fff; text-align:center; padding:15px; margin-top:20px; }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1> 𝑻𝑾𝑰𝑵 𝑨𝑼𝑻𝑶 𝑻𝑹𝑨𝑫𝑬𝑹𝑺. 🛠</h1>
+    <nav>
+      <a href="#home">HOME</a>
+      <a href="#about">ABOUT US</a>
+      <a href="#services">SERVICES</a>
+      <a href="#contact">CONTACT</a>
+    </nav>
+  </header>
+
+  <!-- Home -->
+  <section id="home">
+    <h2>Welcome.</h2>
+    <p>Thank you for visiting our official website.
+Our Twin Auto Traders is ready to provide reliable service and genuine products for all your needs.</p>
+  </section>
+
+  <!-- About -->
+  <section id="about">
+    <h2>About Us.</h2>
+    <p><section style="background-color:#ffffff; color:#000000; padding:40px; font-family:Arial, sans-serif; line-height:1.8; border-radius:15px; max-width:750px; 15px rgba(0,0,0,0.1);">
+  <h2 style="text-align:;;">A Reliable Choice for All Your Vehicle Needs in Sri Lanka.</h2>
+
+  <p>✵ We are your trusted destination where you can find all types of car spare parts, high-capacity bike      ㅤㅤㅤㅤparts, and vehicles directly imported from Japan</b> — all in one place.</p>
+
+  <p>✵ Our goal is to make your shopping experience simple, affordable, and reliable.</b></p>
+
+  <p>✵ We believe shopping should be easy, safe, and stress-free.</b> That’s why we bring together high-ㅤㅤㅤㅤㅤㅤquality products under one roof to ensure you always get the best value for your money.</b></p>
+
+  <p>✵ Our commitment to customer satisfaction sets us apart. For your convenience, we offer multiple ㅤㅤㅤㅤㅤpayment options including Cash on Delivery, Bank Transfer, and Card Payments.</b></p>
+
+  <p>✵ Your trust means everything to us — that’s why we provide product warranties and a hassle-free ㅤㅤㅤㅤreturn policy with a limited time frame.</p>
+
+  <p>✵‌‌‌ ‌Our dedicated team works 24 hours a day to ensure your orders are delivered quickly and safely ㅤㅤㅤㅤanywhere in Sri Lanka.</b></p>
+</section>
+</p>
+</section>
+</p>
+  </section>
+
+  <!-- Services / Products -->
+  <section id="services">
+    <h2>Our Products & Services.</h2>
+    <div class="products">
+      <div class="product">
+        <h3>Product 1</h3>
+        <p>High-quality product. Price: ₹500</p>
+      </div>
+      <div class="product">
+        <h3>Product 2</h3>
+        <p>One of our most popular products. Price: ₹750</p>
+      </div>
+      <div class="product">
+        <h3>Service 1</h3>
+        <p>Fast and reliable service.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>🏠︎ Address: Kalmunai, Sri Lanka</p>
+    <p>☏ Mobile: +94 074050 5718</p>
+    <p>✉ Email:  <a href="mailto:twinautotraders@gmail.com">twinautotraders@gmail.com</a></p>
+     </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>" Twin Moves You Forward. "
+</p>
+    <p>🌐 
+  <a href="https://www.facebook.com/profile.php?id=100082330245248" style="color:white" target="_blank">Facebook</a> |  
+  <a href="https://www.instagram.com/fajees_?igsh=bjRpY3p6a2ZxYjJk" style="color:white" target="_blank">Instagram</a> |  
+  <a href="https://www.tiktok.com/@fajees_ajmeer?_t=ZS-90zykTAjooB&_r=1" style="color:white" target="_blank">TikTok</a>
+  
+
+  <!-- WhatsApp Floating Button -->
+<a href="https://wa.me/94740505718" target="_blank" class="whatsapp-pulse">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
+</a>
+
+<style>
+.whatsapp-pulse {
+  position: fixed;
+  width: 65px;
+  height: 65px;
+  bottom: 25px;
+  right: 25px;
+  background-color: #25d366;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  z-index: 1000;
+  animation: pulse 2s infinite;
+}
+
+.whatsapp-pulse img {
+  width: 38px;
+}
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.6); }
+  70% { box-shadow: 0 0 0 15px rgba(37, 211, 102, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
+}
+</style>
+</p>
+  </footer>
+
+</body>
+</html> 
